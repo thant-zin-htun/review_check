@@ -15,6 +15,7 @@ abstract class Shape {
 	}
 }
 
+//Rectangle Shape
 class Rectangle extends Shape {
 
 	private int width;
